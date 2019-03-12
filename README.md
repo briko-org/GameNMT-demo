@@ -1,7 +1,7 @@
 # Briko's GameNMT Demo
 Briko's GameNMT Demo can be found at: https://www.briko.org/index/demo
 
-### If you'd like to try the pre-trained model at a local environment for a test yourself, here is a simple tutorial you can follow:
+If you'd like to try the pre-trained model at a local environment for a test yourself, here is a simple tutorial you can follow:
 
 #### 1.Download this repository:
 ```
