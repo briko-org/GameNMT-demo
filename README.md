@@ -1,5 +1,5 @@
 # Briko's GameNMT Demo
-Briko's GameNMT Demo can be found at: https://www.briko.org/index/demo
+Briko's GameNMT Demo can be found at: https://www.briko.org/demo
 
 If you'd like to try the pre-trained model at a local environment for a test yourself, here is a simple tutorial you can follow:
 
@@ -46,7 +46,7 @@ VOCAB_FILE=$DATA_DIR/vocab.file
 ```
 #### 7.Download the trained model to MODEL_DIR:
 \
-[Download Torrent](models/official/transformer/model_base/Download.torrent)
+[Download Torrent](https://github.com/briko-org/GameNMT-demo/raw/master/models/official/transformer/model_base/Download.torrent)
 
 #### 8.Finally, you can try to translate some text using the trained model with the command below:
 ```
