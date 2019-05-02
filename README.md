@@ -18,15 +18,15 @@ $ sudo add-apt-repository ppa:jonathonf/python-3.6
 $ sudo apt-get update
 $ sudo apt-get install python3.6
 ```
-#### 3.Install TensorFlow (TensorFlow 1.12.0)
+#### 3.Install TensorFlow (TensorFlow 1.13.1)
 \
 CPU-only:
 ```
-$ pip3 install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.12.0-cp36-cp36m-linux_x86_64.whl
+$ pip3 install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.13.1-cp36-cp36m-linux_x86_64.whl
 ```
 GPU-only:
 ```
-$ pip3 install https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.12.0-cp36-cp36m-linux_x86_64.whl
+$ pip3 install https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.13.1-cp36-cp36m-linux_x86_64.whl
 ```
 #### 4.Add the GameNMT-demo/models folder to the Python path with the command:
 ```
